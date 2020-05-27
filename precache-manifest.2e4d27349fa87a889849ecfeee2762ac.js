@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28a55dcd5035f90cd3fff9c3b04e5a70",
+    "revision": "ed19b812a488aec24bffe533e3ec0d59",
     "url": "https://stuartlynn.github.io/CensusMapStage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://stuartlynn.github.io/CensusMapStage/static/css/2.76609786.chunk.css"
   },
   {
-    "revision": "fa18a81e6db3f1b0a659",
+    "revision": "5c9870c476184703e923",
     "url": "https://stuartlynn.github.io/CensusMapStage/static/css/main.e823787a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://stuartlynn.github.io/CensusMapStage/static/js/2.8d3cd911.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa18a81e6db3f1b0a659",
-    "url": "https://stuartlynn.github.io/CensusMapStage/static/js/main.8326db69.chunk.js"
+    "revision": "5c9870c476184703e923",
+    "url": "https://stuartlynn.github.io/CensusMapStage/static/js/main.cfe40146.chunk.js"
   },
   {
     "revision": "aedb8572742e4598bfd2",

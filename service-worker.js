@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://stuartlynn.github.io/CensusMapStage/precache-manifest.f4205218536df08eb0d47a606a847396.js"
+  "https://stuartlynn.github.io/CensusMapStage/precache-manifest.0575beeb97e57af559ea85b58b47f551.js"
 );
 
 self.addEventListener('message', (event) => {
